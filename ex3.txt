@@ -1,0 +1,4 @@
+name, city
+sydeny, murphy
+zaina, irving
+safa, atlanta

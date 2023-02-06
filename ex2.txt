@@ -1,0 +1,4 @@
+name, city
+zainab, austin
+sarra, london
+fatma, dallas

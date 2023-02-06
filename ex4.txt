@@ -1,0 +1,4 @@
+name, city
+taylor swift, new york
+beyonce, los angeles
+ed sheeran, manchester
